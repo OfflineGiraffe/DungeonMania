@@ -1,0 +1,42 @@
+{
+    "entities": [
+        {
+            "type": "player",
+            "x": 0,
+            "y": 1
+        },
+        {
+            "type": "swamp_tile",
+            "x": 1,
+            "y": 1
+        },
+        {
+            "type": "zombie_toast",
+            "x": 2,
+            "y": 1
+        },
+        {
+            "type": "swamp_tile",
+            "x": 3,
+            "y": 1
+        },
+        {
+            "type": "swamp_tile",
+            "x": 2,
+            "y": 0
+        },
+        {
+            "type": "swamp_tile",
+            "x": 2,
+            "y": 2
+        },
+        {
+            "type": "exit",
+            "x": 0,
+            "y": 0
+        }
+    ],
+    "goal-condition": {
+        "goal": "exit"
+    }
+}
